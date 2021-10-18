@@ -7,11 +7,11 @@
 - etc
 
 ### Capabilities
-- [ ] PoC: Login management, secure (using Google API) TEAM OAK
-- [ ] PoC: Calendar management (using Google API) TEAM ICE
-- [ ] PoC: Efficent UI/UX (using Bootstrap) TEAM SSD
+- [ ] PoC: Login management, secure (using Google API) TEAM OAK [intro](https://github.com/herkommer/TE42122-BookingApplication/edit/main/GoogleIdentityAPI.md)
+- [ ] PoC: Calendar management (using Google API) TEAM ICE [intro](https://github.com/herkommer/TE42122-BookingApplication/edit/main/GoogleCalendarAPI.md)
+- [ ] PoC: Efficent UI/UX (using Bootstrap) TEAM SSD [intro](https://github.com/herkommer/TE42122-BookingApplication/edit/main/BootStrap.md)
 - [ ] Business Logic and Domain Model
-- [ ] Data management (Backing store based on JSON using Google Cloud Storage)
+- [ ] Data management (Backing store based on JSON using Google Cloud Storage) [intro](https://github.com/herkommer/TE42122-BookingApplication/edit/main/GoogleStorageAPI.md)
 
 #### Links for reference
 1. https://developers.google.com/identity/sign-in/web/sign-in
