@@ -29,8 +29,9 @@
         Or 3 equally large columns and each of them is 4 column spaces large, adding up to a total of 12 column spaces wich is the maxmimum.
         The code for the latter would look like this:
         
-        <div class="row">               //The row class is being assigned.
-            <div class="col-md-4">      //Each column has the class "col-md-4", "4" specifies the ammount of space that the column takes up.
+        <div class="row">               // The row class is being assigned.
+            <div class="col-md-4">      // Each column has the class "col-md-4", 
+                                        // "4" specifies the ammount of space that the column takes up.
                 <div>  Column text    </div>
             </div>
             <div class="col-md-4">
