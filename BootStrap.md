@@ -8,13 +8,11 @@
         applications. Here is a link to their tutorial website that covers almost everything
         you need to know. 
         
-        Link: https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/
-        
         Because of the complexity of BootStraps different classes, the learning
         process would be a lot easier if you use their own tutorial. Here is some examples of what
         BootStrap offers.
        
-
+        [Bootstrap Tutorial Guide](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
 
 ### Containers
 #### .container-{inset size: xs, sm, md, lg, xl and xll }
@@ -42,6 +40,4 @@
             </div>
         </div>
         
-        Example Link : https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=three-column-grid-layouts-for-tablets-in-landscape-mode-and-desktops 
-        
-
+        [Example Link](https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=three-column-grid-layouts-for-tablets-in-landscape-mode-and-desktops)
