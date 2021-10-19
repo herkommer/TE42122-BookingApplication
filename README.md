@@ -14,7 +14,7 @@
 - [ ] Business Logic and Domain Model
 
 #### Links for reference
-1. https://developers.google.com/identity/sign-in/web/sign-in
+1. https://developers.google.com/identity/gsi/web/guides/migration
 2. https://developers.google.com/calendar
 3. https://getbootstrap.com/docs/5.1/getting-started/introduction/
 4. https://cloud.google.com/storage/docs/json_api
